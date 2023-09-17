@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Conversational AI, React**
 
-- 💬 Ask me about **AI , NLP , Python , Web Automation , SQL , Ubuntu**
+- 💬 Ask me about **AI , NLP , Python , Web Automation , PostgreSQL , Ubuntu , Django, Flask**
 
 - 📫 How to reach me **rehmanaziz678@gmail.com**
 
